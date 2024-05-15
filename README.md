@@ -1,1 +1,2 @@
 # ARIMA_TimeSeries
+The analysis delves into Walmart's revenue patterns using various models, such as ARIMA, auto ARIMA, and regression-based methods. The AR(1) model suggests strong autocorrelation in revenue, while regression models incorporate linear trends and seasonality. ARIMA models capture both trend and seasonality effectively. Overall, ARIMA demonstrates superior accuracy in forecasting Walmart's revenue.
